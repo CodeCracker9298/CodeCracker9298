@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 My name is Tryston
 
 - 🔭 I’m currently working on ... My Bachelor's Degree in Cybersecurity
